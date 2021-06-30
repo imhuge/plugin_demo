@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.imhuge.plugindemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.imhuge.plugindemo.MyBundle
 
 class MyApplicationService {
 
